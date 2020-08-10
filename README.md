@@ -16,7 +16,7 @@ go get https://github.com/svenschaper/advanced-go-logs
 
 Import the package into your go File
 ```golang
-import "github.com/svenschaper/advanced-go-logs"
+import logging "github.com/svenschaper/advanced-go-logs"
 ```
 
 
